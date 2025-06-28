@@ -10,4 +10,4 @@ This repository contains a detailed three-statement financial model of Nike, Inc
 
 ## Author
 Murtaza Wani  
-[LinkedIn Profile](www.linkedin.com/in/murtazawani)  
+[LinkedIn Profile](https://www.linkedin.com/in/murtazawani)  
