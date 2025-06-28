@@ -5,7 +5,7 @@ This repository contains a detailed three-statement financial model of Nike, Inc
 ## Key Features
 - Dynamic model with linked statements
 - PDF report explaning the model assumptions and results
-- Assumptions and scenario analysis
+- Base, Best and Worst case scenario analysis
 - Excel formulas for transparency
 
 ## Author
