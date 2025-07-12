@@ -1,6 +1,6 @@
 # Fundamental Research: Nike, Inc.
 
-This repository contains fundamental analysis of **Nike, Inc.**, based on its **10-K filing for fiscal year 2024** (ended May 31, 2025).
+This repository contains fundamental analysis of **Nike, Inc.**, based on its **10-K filing for fiscal year 2024** (ended May 31, 2024).
 
 ## 📁 Contents
 
